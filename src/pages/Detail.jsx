@@ -21,7 +21,7 @@ function Detail() {
 	return (
 		<Layout>
 			<div>
-				<p className="text-black dark:text-white">how do I get this pokeomn's detail T.T</p>
+				<p className="text-black dark:text-white">in progress</p>
 			</div>
 		</Layout>
 	);
