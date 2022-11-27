@@ -1,4 +1,4 @@
-Deploy on Vercel: pokemon-app-omega-coral.vercel.app
+
 
 # Getting Started with Create React App
 
